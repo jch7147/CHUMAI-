@@ -1,5 +1,6 @@
 package com.example.demo;
 
 public class CHUMAI {
-	//よろしくお願いします。
+	//Hey Bro!!
+	//雨やばいよー
 }
